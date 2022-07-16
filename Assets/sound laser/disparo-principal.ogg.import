@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/disparo-principal.ogg-9f23824d6afc002a469f27e21b9f551b.oggstr"
+
+[deps]
+
+source_file="res://Assets/sound laser/disparo-principal.ogg"
+dest_files=[ "res://.import/disparo-principal.ogg-9f23824d6afc002a469f27e21b9f551b.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
